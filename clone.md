@@ -11,4 +11,4 @@ git clone https://github.com/user/example
 ```
 
 ---
-[[Содержание]](./readme.md)
+[[Содержание]](./README.md)

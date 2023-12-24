@@ -13,4 +13,4 @@ git config --global user.email "your_email@whatever.com"
 Полный список опций на странице руководства [git-config](https://git-scm.com/docs/git-config)
 
 ---
-[[Содержание]](./readme.md)
+[[Содержание]](./README.md)

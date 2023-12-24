@@ -69,4 +69,4 @@ Hi ИмяПользователя! You've successfully authenticated, but GitHub
 > ```
 > 
 ---
-[[Содержание]](./readme.md)
+[[Содержание]](./README.md)

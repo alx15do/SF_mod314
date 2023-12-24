@@ -44,4 +44,4 @@ git config --global log.date short
 ```
 
 ---
-[[Содержание]](./readme.md)
+[[Содержание]](./README.md)
