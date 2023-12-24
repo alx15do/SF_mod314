@@ -1,0 +1,46 @@
+# игнорировать директорию node_modules
+node_modules
+
+# игнорировать все текстовые файлы
+*.txt
+
+# игнорировать файлы, связанные с ключами API
+.env
+
+# игнорировать локальные файлы env
+.env.local
+.env.*.local
+
+# игнорировать конфиграционные файлы sass
+.sass-cache
+
+# логи
+**/logs
+*.log
+
+# папки и файлы редакторов
+.idea
+.vscode
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/*.code-snippets
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# локальная история для кода Visual Studio
+.history/
+
+# встроенные расширения кода Visual Studio
+*.vsix
+
+# игнорироваь резервные файлы
+*.backup
+*.bak
+*.tmp
+
+# дальнейшие настройки
